@@ -11,11 +11,9 @@ display: flex;
 padding-left: 2rem;
 padding-right: 2rem;
 padding-top: 1rem;
- /* -webkit-box-pack: justify;  */
 justify-content: space-between;
-    /* -webkit-box-align: center; */
-     align-items: center; 
-     /* z-index: 10;   */
+align-items: center; 
+
  }
 
 .list ul{
